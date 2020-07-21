@@ -15,4 +15,4 @@ Write a short summary of what your suggestion is about.
 If there are any links to what you're suggesting, please add them here.
 
 **Reason:**
-Why would your suggestion be a good addition to Legacy?
+Why would your suggestion be a good addition?
